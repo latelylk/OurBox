@@ -72,4 +72,4 @@ The sheet is governed by two Google Apps Scripts.
 
 # Interested in a box of your own?
 
-[See the wiki for details.](wiki/Install)
+[See the wiki for details.](https://github.com/latelylk/OurBox/wiki/Install)
